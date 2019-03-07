@@ -24,7 +24,7 @@ module.exports = {
             error: `The provided password failed to meet the following rules
             <br>
             1. The password can only contain uppercase letters, lowercase letters, and numbers
-            <br:
+            <br>
             2. It must be greater than 8 characters and less than 32 in length
             `
           })
